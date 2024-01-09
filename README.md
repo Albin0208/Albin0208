@@ -6,6 +6,7 @@ I'm Albin, a developer currently studying programming at Linköpings University.
 Explore some of my projects that I have been working on:
 - [Custom programming language](https://github.com/Albin0208/Parser-in-ruby): A programming language developed with Ruby, inspired by C++ and Python.
 - [Workoutlogger](https://github.com/Albin0208/WorkoutLogger): An Android app designed to track and log workout progress.
+- [Social app](https://github.com/Albin0208/SocialApp): A social app developed using the MERN stack.
 
 Feel free to explore these repositories and provide feedback or suggestions. I'm always eager to learn and collaborate on exciting projects.
 
